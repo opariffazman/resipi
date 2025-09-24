@@ -3,3 +3,5 @@
 ## bahan masakan 1
 
 - ikan goreng
+- ayam goreng
+- daging steak
