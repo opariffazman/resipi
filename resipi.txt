@@ -1,1 +1,5 @@
 # resipi masakan
+
+## bahan masakan 1
+
+- ayam goreng
